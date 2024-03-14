@@ -20,6 +20,3 @@ while(number != int):
     except:
 
         print("Informe um número!")
-
-    
-        
